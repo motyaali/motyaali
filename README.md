@@ -34,13 +34,19 @@ Before moving into project administration and technology, I spent more than 15 y
 
 ## Selected Work
 
+### 🛒 SmartGrocer — Full-Stack Replenishment Prototype
+Private engineering project built with **React, FastAPI, MongoDB, Python, and JavaScript**. It converts purchase history into explainable replenishment forecasts, supports receipt-text ingestion, and keeps shopping-list decisions under explicit user control. The project includes authentication, household-level data isolation, automated tests, and CI workflows.
+
+### 🧠 AliOS Public Core Pack — Human-AI Workflow Evaluation
+Private release-candidate repository containing **Python validators, prompt protocols, output schemas, synthetic test cases, evaluation rubrics, and regression tests** for human-in-the-loop AI workflows. It is designed as a sanitized technical evidence pack rather than a production application.
+
 ### 🌐 [Professional Portfolio](https://github.com/motyaali/motyaali-portfolio)
 The source repository for [motyaali.com](https://motyaali.com), where I present project work, case studies, and experience across operations, systems, analytics, and applied AI.
 
 ### ✍️ [The Ali Unseen](https://github.com/motyaali/thealiunseen)
 A developing digital publishing and project platform exploring systems thinking, technology, AI, accessibility, and the human side of complex processes.
 
-> Additional technical and AI workflow projects are being prepared for public release as they reach portfolio-ready quality.
+> SmartGrocer and the AliOS Public Core Pack are currently private while I complete release and privacy reviews.
 
 ## Current Focus
 
