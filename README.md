@@ -1,6 +1,6 @@
 # Hi, I'm Ali 👋
 
-### Project Administration • AI Workflows • Systems & Process Improvement
+### Project Operations • AI Workflows • Systems & Process Improvement
 
 I'm a San Francisco-based project and operations professional currently studying Computer Science at City College of San Francisco.
 
@@ -10,7 +10,7 @@ My background spans project administration, document control, business operation
 
 - 🤖 **AI-assisted workflows** that turn complex information into structured actions, documentation, and decision support
 - ⚙️ **Workflow and process automation** with an emphasis on human review and reliable outputs
-- 📚 **Computer Science coursework** including programming, machine learning, and software development
+- 📚 **Computer Science coursework** in C++, machine learning, and software development fundamentals
 - 🧩 **Systems and process design** focused on reducing friction in complex administrative workflows
 - 📊 **Analytics and operational tools** grounded in real-world business and project-management experience
 
@@ -29,27 +29,24 @@ Before moving into project administration and technology, I spent more than 15 y
 ## Areas I'm Exploring
 
 `Applied AI` • `Workflow Automation` • `Human-in-the-Loop Systems` • `Process Improvement`  
-`Document Systems` • `Knowledge Management` • `Data Analysis` • `Machine Learning`  
-`Python` • `C++` • `JavaScript` • `HTML/CSS` • `Enterprise Systems`
+`Document Systems` • `Data Analysis` • `Machine Learning`  
+`C++` • `Python` • `JavaScript`
 
 ## Selected Work
 
-### 🧠 AI & Workflow Systems
-Projects exploring how AI can support structured workflows, information synthesis, documentation, and human decision-making.
+### 🌐 [Professional Portfolio](https://github.com/motyaali/motyaali-portfolio)
+The source repository for [motyaali.com](https://motyaali.com), where I present project work, case studies, and experience across operations, systems, analytics, and applied AI.
 
-### 📋 Operations & Process Improvement
-Systems and case studies focused on documentation standards, workflow design, business processes, and operational clarity.
+### ✍️ [The Ali Unseen](https://github.com/motyaali/thealiunseen)
+A developing digital publishing and project platform exploring systems thinking, technology, AI, accessibility, and the human side of complex processes.
 
-### 📊 Analytics & Planning
-Projects drawing on my background in forecasting, inventory planning, financial analysis, and decision support.
-
-➡️ **Portfolio:** [motyaali.com](https://motyaali.com)
+> Additional technical and AI workflow projects are being prepared for public release as they reach portfolio-ready quality.
 
 ## Current Focus
 
 I'm especially interested in opportunities at the intersection of:
 
-**Operations + Technology + AI**
+**Operations + Systems + AI**
 
 including project operations, business systems, AI-enabled workflows, process improvement, documentation systems, and applied analytics.
 
